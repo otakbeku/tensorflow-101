@@ -19,9 +19,12 @@ Didistribusikan menggunakan lisensi MIT
 
 ## Kontribusi
 ---
-1. Silahkan di Fork (*Ofc!*)
-2. Buat branch baru (git checkout -b feature/tambah)
-3. Silahkan isi nama anda dengan link github dan akun twitter di CONTRIBUTORS.md
-4. Commit perubahan yang ada(git commit -am 'Tambah materi')
+1. Silahkan di *fork* (*Ofc!*)
+2. Buat branch baru 
+```sh 
+(git checkout -b feature/tambah)
+```
+3. Silahkan isi nama Anda dengan *link github* dan akun twitter di ``CONTRIBUTORS.md``
+4. *Commit* perubahan yang dibuat (git commit -am 'Tambah materi')
 5. Push pada branch yang sudah ada (git push origin feature/tambah)
-6. Buat sebuah Pull Request baru (nanti di*review* dahulu)
+6. Buat sebuah *Pull Request* baru (nanti di*review* dahulu)
