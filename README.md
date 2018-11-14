@@ -9,7 +9,7 @@ Belajar Tensorflow dari banyak sumber dan contoh. Materi disajikan dengan bahasa
 ## Materi
 
   - Introduction:
-        1. [Introduction to low-level API (Part 1)](https://docs.google.com/presentation/d/1-es2nFW3wPpCXJzC45o2y59oCK_eBDPWPQ6N378iNgs/edit?usp=sharing) Beserta notebook :notebook_with_decorative_cover: di berkas introduction
+        1. [Introduction to low-level API (Part 1)](https://docs.google.com/presentation/d/1-es2nFW3wPpCXJzC45o2y59oCK_eBDPWPQ6N378iNgs/edit?usp=sharing) Beserta [:notebook_with_decorative_cover:](https://github.com/otakbeku/tensorflow-101/blob/master/Introduction/TF-101-1%20.ipynb)
   - Belum ada :ok_hand:
   
 
