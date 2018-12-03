@@ -11,7 +11,7 @@ Belajar Tensorflow dari banyak sumber dan contoh. Materi disajikan dengan bahasa
   - Introduction:
       1. [Introduction to low-level API (Part 1)](https://docs.google.com/presentation/d/1-es2nFW3wPpCXJzC45o2y59oCK_eBDPWPQ6N378iNgs/edit?usp=sharing) Beserta notebook :point_right: [:notebook_with_decorative_cover:](https://github.com/otakbeku/tensorflow-101/blob/master/Introduction/TF-101-1%20.ipynb)
   - Image with Deep Learning:
-      1. Image Recognition with Deep Learning: CIFAR-10. Colab Notebook [ini](https://colab.research.google.com/drive/1hlBZVJfyqwavFVbrUbL4396OApGNhB9-)
+      1. Image Recognition with Deep Learning: CIFAR-10. Colab Notebook [ini](https://drive.google.com/file/d/1hlBZVJfyqwavFVbrUbL4396OApGNhB9-/view?usp=sharing)
   
 
 ## Lisensi
